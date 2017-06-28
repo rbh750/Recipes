@@ -14,7 +14,7 @@ export class RecipeService {
         new Recipe(
             'Skewers',
             'Food on the stick is great for the grill!',
-            'http://maxpixel.freegreatpicture.com/static/photo/640/Shish-Kebab-Meat-Skewer-Vegetable-Skewer-417994.jpg',
+            'http://www.rattlerwellness.com/wp-content/uploads/2013/07/kabobs-719954.jpg',
             [
                 new Ingredient('Beef', 1),
                 new Ingredient('Chicken', 1),
